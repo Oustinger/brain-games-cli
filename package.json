@@ -1,0 +1,28 @@
+{
+  "name": "brain-f-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+   "brain-games": "/src/bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oustinger/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "brain-games",
+    "games",
+    "brain",
+    "hexlet"
+  ],
+  "author": "Oustinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oustinger/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Oustinger/frontend-project-lvl1#readme"
+}
